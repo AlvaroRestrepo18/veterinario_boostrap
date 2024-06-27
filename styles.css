@@ -1,0 +1,143 @@
+.hero-section {
+    background-image: url('https://cvfaunia.com/wp-content/uploads/2023/07/grupo-perros-diversas-razas-tamanos-colores-mirando-camara-creada-ia-generativa-1024x683.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid rgb(38, 144, 48);
+}
+
+.hero-content {
+    background: rgba(255, 255, 255, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+}
+.feature-icon {
+    font-size: 3rem;
+}
+
+.testimonial-img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/* Centro el contenido de la sección de características */
+.container {
+    border-radius: 10px; /* Cambié a 10px para bordes redondeados */
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.container1 {
+    border-radius: 10px; /* Cambié a 10px para bordes redondeados */
+    background-color: brown;
+    color: white; /* Añadí color blanco al texto para contraste */
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Añadí padding para separación interna */
+}
+
+.container2 {
+    border-radius: 10px; /* Cambié a 10px para bordes redondeados */
+    background-color: rgb(99, 231, 66);
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Añadí padding para separación interna */
+}
+
+.container4 {
+    border-radius: 10px; /* Cambié a 10px para bordes redondeados */
+    background-color: rgb(76, 255, 6);
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Añadí padding para separación interna */
+    border: 1px solid #8B4513; /* Añadí un borde terroso */
+}
+.container5 {
+    border-radius: 10px; /* Cambié a 10px para bordes redondeados */
+    background-color: rgb(6, 247, 255);
+    justify-content: center;
+    text-align: center;
+    padding: 20px; /* Añadí padding para separación interna */
+    border: 1px solid #8B4513; /* Añadí un borde terroso */
+}
+
+.container6 {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border: 2px solid #4CAF50; /* Borde verde */
+}
+
+.container7 {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border: 2px solid #2196F3; /* Borde azul */
+}
+
+.container8 {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border: 2px solid #FF9800; /* Borde naranja */
+}
+
+
+.Registro {
+    margin-bottom: 20px; /* Espacio entre cada campo */
+    text-align: center;
+}
+
+.Registro .form-control {
+    width: 50%;
+    padding: 15px;
+    font-size: 1rem;
+    border: 1px solid #ced4da;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.Registro .form-control:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+
+.Registro h2 {
+    color: #333333;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+
+.features-section .row {
+    justify-content: center;
+    text-align: center;
+}
+
+.features-section .col-md-4 {
+    margin-bottom: 20px;
+}
+
+
+.footer {
+    text-align: center;
+    background-color: #00ffdd;
+    padding: 20px 0;
+}
